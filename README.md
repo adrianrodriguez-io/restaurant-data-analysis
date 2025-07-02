@@ -23,8 +23,7 @@ This charts shows the evolution and trends of customer reviews of my favourite b
 
 ### Chart 2: Word Cloud
 
-[![image_url_or_path](https://github.com/adrianrodriguez-io/sentiment-analysis-brunch-restaurant/blob/4721d507100ead85664281f0ca7be8bccadbf493/chrts/ld-wordscloud.png)
-](https://github.com/adrianrodriguez-io/restaurant-data-analysis/blob/main/ld-wordscloud.png?raw=true)
+[![image_url_or_path](https://github.com/adrianrodriguez-io/restaurant-data-analysis/blob/main/ld-wordscloud.png?raw=true)
 
 This chart highlights the most frequently mentioned words in reviews, both in positive and negative contexts.
 
@@ -35,8 +34,7 @@ This chart highlights the most frequently mentioned words in reviews, both in po
 
 ### Chart 3: Sentiment Bar Chart
 
-[![image_url_or_path](https://github.com/adrianrodriguez-io/sentiment-analysis-brunch-restaurant/blob/4721d507100ead85664281f0ca7be8bccadbf493/chrts/ld-percmentions.png)
-](https://github.com/adrianrodriguez-io/restaurant-data-analysis/blob/main/ld-percmentions.png?raw=true)
+[![image_url_or_path](https://github.com/adrianrodriguez-io/restaurant-data-analysis/blob/main/ld-percmentions.png?raw=true)
 
 This chart shows the proportion of positive and negative mentions of various keywords in reviews.
 
@@ -47,8 +45,7 @@ This chart shows the proportion of positive and negative mentions of various key
 
 ### Chart 4: Radar Chart by Sentiment
 
-[![image_url_or_path](https://github.com/adrianrodriguez-io/sentiment-analysis-brunch-restaurant/blob/4721d507100ead85664281f0ca7be8bccadbf493/chrts/ld-radar.png)
-](https://github.com/adrianrodriguez-io/restaurant-data-analysis/blob/main/ld-radar.png?raw=true)
+[![image_url_or_path](https://github.com/adrianrodriguez-io/restaurant-data-analysis/blob/main/ld-radar.png?raw=true)
 
 The radar chart compares mentions of keywords like "coffee," "brunch," "place," "staff," "dishes," and "food" based on sentiment.
 
