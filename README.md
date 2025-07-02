@@ -1,4 +1,4 @@
-# restaurant-data-analysis
+# Customer experience analysis of a brunch restaurant
 
 This analysis provides insights into customer reviews of a brunch restaurant located in central Madrid. By examining customer feedback, my aim is to identify key areas of satisfaction and improvement opportunities to enhance the dining experience and strengthen the restaurant’s position in a competitive market.
 
