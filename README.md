@@ -19,8 +19,7 @@ The growing popularity of brunch spots in Madrid has led to an increase in compe
 
 This charts shows the evolution and trends of customer reviews of my favourite brunch restaurant. 
 
-[![image_url_or_path](https://github.com/adrianrodriguez-io/sentiment-analysis-brunch-restaurant/blob/4721d507100ead85664281f0ca7be8bccadbf493/chrts/ld-reviewsevolution.png))
-]
+[![image_url_or_path](https://github.com/adrianrodriguez-io/restaurant-data-analysis/blob/main/ld-reviewsevolution.png?raw=true)
 
 ### Chart 2: Word Cloud
 
