@@ -12,7 +12,6 @@ This report presents an analysis of customer reviews for a popular brunch restau
 ## Motivation
 The growing popularity of brunch spots in Madrid has led to an increase in competition, making customer satisfaction crucial for maintaining a unique and appealing identity. By analyzing customer feedback, this report seeks to leverage insights from unstructured data to pinpoint factors influencing customer perceptions. These findings will provide actionable steps for the restaurant to directly address areas of concern and further emphasize aspects that diners already value, with the goal of attracting new guests and fostering loyalty among regular customers.
 
----
 
 
 ## Chart Analysis
@@ -60,7 +59,6 @@ The radar chart compares mentions of keywords like "coffee," "brunch," "place," 
 - **Negative Aspects**: "Staff" and "dishes" have notable negative feedback, suggesting that while food is generally appreciated, there are specific items or service-related aspects that need attention.
 
 
----
 
 ## Conclusions
 
@@ -70,7 +68,6 @@ The radar chart compares mentions of keywords like "coffee," "brunch," "place," 
 
 3. **Ambience and Comfort**: Customers enjoy the restaurant’s atmosphere, especially when it's less crowded. However, during peak hours, comfort appears to decrease due to the volume of customers, as indicated by terms like "crowded" in negative reviews. 
 
----
 
 ## Recommendations
 
@@ -86,7 +83,6 @@ The radar chart compares mentions of keywords like "coffee," "brunch," "place," 
 4. **Enhance Comfort During Peak Times**:
    - Increasing the spacing between tables, adding waiting areas, or reconfiguring the layout could improve perceived comfort during busy periods. Limiting occupancy during peak hours may also help maintain a pleasant dining atmosphere.
 
----
 
 ## Final Remarks
 This analysis offers valuable insights into customer satisfaction and areas for improvement, helping the restaurant maintain its favorable reputation. By addressing the highlighted issues and enhancing popular aspects of the dining experience, the restaurant can continue to thrive as a top brunch destination and improve customer loyalty.
