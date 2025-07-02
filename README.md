@@ -4,7 +4,6 @@ This analysis provides insights into customer reviews of a brunch restaurant loc
 
 The analysis provided has been done by using Python.
 
----
 
 ## Introduction
 This report presents an analysis of customer reviews for a popular brunch restaurant in a central Madrid neighborhood. With a menu featuring breakfast and brunch favorites, the restaurant has garnered attention from both locals and tourists who have shared their experiences through online reviews. This analysis aims to identify key areas of customer satisfaction and potential improvements, which can help enhance the dining experience and reinforce the restaurant’s position in a competitive market.
